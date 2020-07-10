@@ -13,6 +13,10 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
+    "react-spring": "^8.0.27",
+    "react-three-fiber": "^4.2.13",
+    "styled-components": "^5.1.1",
+    "three": "^0.118.3",
     "typescript": "^3.7.5"
   },
   "scripts": {
@@ -35,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.1"
   }
 }
